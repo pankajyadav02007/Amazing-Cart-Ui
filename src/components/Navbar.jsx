@@ -5,10 +5,10 @@ import { NavLink } from 'react-router'
 const Navbar = () => {
   return (
 <>
-<section className='h-15 bg-amber-100 w-[100%]  flex items-center justify-between pr-0 pl-0 min-w-[600px] md:pr-10 md:pl-10'>
+<section className='h-15 bg-amber-100 md:w-[100%]  flex items-center gap-25 md:justify-between pr-0 pl-0 min-w-[600px] md:pr-10 md:pl-10'>
 <div className='flex justify-center items-center  gap-2'>
          <img className='h-[100%] w-20  object-cover p-2 rounded-2xl border-white bg-white' src='https:static.vecteezy.com/system/resources/previews/026/426/593/non_2x/carpet-design-texture-persian-and-tebriz-rugs-design-print-fabric-design-vector.jpg'/>
-       <h1 className='text-3xl'>Rugs</h1>
+       <h1 className='text-xl  md:text-3xl '>Rugs</h1>
 </div> 
 <div className='flex gap-4 '>
 <div className='group border rounded-2xl h-8 md:flex justify-center items-center  p-3 hidden '>
