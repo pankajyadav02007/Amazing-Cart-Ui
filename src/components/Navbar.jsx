@@ -44,6 +44,7 @@ const Navbar = () => {
         <Heart/>
        </div>
      </section>
+    
     </>
   )
 }
