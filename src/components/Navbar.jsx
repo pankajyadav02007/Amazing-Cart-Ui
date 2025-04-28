@@ -7,7 +7,7 @@ const Navbar = () => {
 <>
 <section className='h-15 bg-amber-100 md:w-[100%]  flex items-center gap-25 md:justify-between  p-5  md:pr-10 md:pl-10 z-10 sticky top-0 left-0 right-0'>
 <div className='flex justify-center items-center  gap-2'>
-         <img className='h-[100%] w-20  object-cover p-2 rounded-2xl border-white bg-white' src='https:static.vecteezy.com/system/resources/previews/026/426/593/non_2x/carpet-design-texture-persian-and-tebriz-rugs-design-print-fabric-design-vector.jpg'/>
+         <img className='h-[100%] w-20  object-cover p-2 rounded-2xl border-white bg-white' src='carpet-logo.jpg'/>
        <h1 className='text-xl  md:text-3xl '>Rugs</h1>
 </div> 
 <div className='flex gap-4 '>
